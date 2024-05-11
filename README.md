@@ -10,4 +10,4 @@
 ## 링크
 |사이트|난이도|번호|제목|상태|withComment|onlyCode|
 |------|---|---|---|---|---|---|
-|백준|브론즈1|17350|[스노우볼](https://www.acmicpc.net/problem/17950)|실패|[주석 O]()|[주석 X]()|
+|백준|브론즈1|17350|[스노우볼](https://www.acmicpc.net/problem/17950)|실패|[주석 O](https://github.com/wonggamggik/Coding-Test-Collection/blob/main/codeWithComment/fail-baekjoon-bronze%201-17950.java)|[주석 X]()|
